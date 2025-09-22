@@ -1,4 +1,4 @@
-# Real-time Weather ETL Pipeline & Dashboard 
+# Real-time Weather ETL Pipeline & Interactive Dashboard using Databricks
 
 ## Project Overview
 This project demonstrates a complete ETL pipeline using **Databricks** to fetch, process, and visualize weather data. 
