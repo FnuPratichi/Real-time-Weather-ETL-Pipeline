@@ -1,4 +1,4 @@
-# Weather ETL & Dashboard Project
+# Real-time Weather ETL Pipeline & Dashboard 
 
 ## Project Overview
 This project demonstrates a complete ETL pipeline using **Databricks** to fetch, process, and visualize weather data. 
@@ -49,6 +49,8 @@ The ETL pipeline is orchestrated using a Databricks job:
 - **Behavior:** Appends new daily data to Delta tables, keeping past records and updating visualizations automatically  
 <img width="1636" height="1230" alt="image" src="https://github.com/user-attachments/assets/7142e142-314e-4d22-ac09-f50935264d10" />
 <img width="1636" height="1534" alt="image" src="https://github.com/user-attachments/assets/e7d2c5a9-5d1e-49c7-8982-f0c16c26c87c" />
+<img width="941" height="635" alt="Screenshot 2025-09-22 at 5 53 57 PM" src="https://github.com/user-attachments/assets/c810f084-bfd5-4b24-95a6-bdec4b943a42" />
+
 
 
 ---
