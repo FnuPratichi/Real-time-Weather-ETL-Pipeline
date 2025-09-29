@@ -45,7 +45,7 @@ The ETL pipeline is orchestrated using a Databricks job:
 
 - **Job Name:** `Weather_ETL_Pipeline`  
 - **Tasks:** Bronze → Silver → Gold → Dashboard refresh  
-- **Schedule:** Runs daily at 8 AM  
+- **Schedule:** Runs daily at 5 PM
 - **Behavior:** Appends new daily data to Delta tables, keeping past records and updating visualizations automatically  
 <img width="1636" height="1230" alt="image" src="https://github.com/user-attachments/assets/7142e142-314e-4d22-ac09-f50935264d10" />
 <img width="1636" height="1534" alt="image" src="https://github.com/user-attachments/assets/e7d2c5a9-5d1e-49c7-8982-f0c16c26c87c" />
