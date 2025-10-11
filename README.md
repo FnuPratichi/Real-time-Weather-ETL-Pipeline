@@ -28,10 +28,10 @@ All notebooks are scheduled as a **Databricks job** to run daily at 8 AM, automa
 ## Dashboard
 The Databricks dashboard visualizes:
 
-- Daily average temperature (line chart)  
-- Total precipitation per day (bar chart)  
-- Humidity trends (area chart)  
-- Min and max temperature per day (optional)
+- Daily average temperature 
+- Total precipitation per day 
+- Humidity trends 
+- Min and max temperature per day
 
 The dashboard **automatically refreshes** after the ETL job completes.
 
