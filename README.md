@@ -14,7 +14,7 @@ The ETL workflow is organized into three layers:
 2. **Silver Layer**: Cleaned and transformed data with proper data types, deduplicated records, and source metadata.  
 3. **Gold Layer**: Aggregated analytics-ready data, including daily average temperature, humidity, and total precipitation.
 
-All notebooks are scheduled as a **Databricks job** to run daily at 8 AM, automatically updating the Gold layer and the dashboard.
+All notebooks are scheduled as a **Databricks job** to run daily at 5:17 PM, automatically updating the Gold layer and the dashboard.
 
 ---
 
